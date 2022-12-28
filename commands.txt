@@ -1,0 +1,16 @@
+mkdir
+cd
+ssh-keygen -t rsa
+cat l.pub
+git init
+git clone 
+cd 
+git status
+cat filename.txt
+notepad
+ls
+cat 
+git status
+git add
+git commit -m "v1"
+git push
